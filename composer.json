@@ -1,0 +1,14 @@
+{
+    "name": "zeekdageek/bettertwitchbitemotes",
+    "description": "Better Twitch Bit Emotes",
+    "authors": [
+        {
+            "name": "ZeekDaGeek",
+            "email": "zeek@zeekdageek.tv"
+        }
+    ],
+    "require": {
+        "nategood/commando": "*",
+        "stil/gif-endec": "^0.2.0"
+    }
+}
